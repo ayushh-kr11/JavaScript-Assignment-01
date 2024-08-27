@@ -75,5 +75,3 @@ of JavaScript.
 support for classes, modules, and other features.
 11. 2018: ECMAScript 2018 is released, which adds support for
 async/await, and other features.
-
----
